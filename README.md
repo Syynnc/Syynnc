@@ -13,10 +13,10 @@
 ```js
 const syynnc = {
   status:   "Student · Learning to code 🎓",
-  passion:  "Fascinated by how software solves real problems 💡",
-  goal:     "Build things I'm genuinely proud to ship 🎯",
+  passion:  "Software that solves real problems 💡",
+  goal:     "Ship things I'm genuinely proud of 🎯",
   vibe:     "Debugging life, one commit at a time ☕",
-  openTo:   ["Beginner-friendly collabs", "Open source", "Cool ideas"],
+  openTo:   ["beginner collabs", "open source", "cool ideas"],
 };
 ```
 
@@ -155,8 +155,24 @@ const syynnc = {
 
 <div align="center">
 
+<br>
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║   " When I am working on a problem, I never think about      ║
+║     beauty — but when I have finished, if the solution       ║
+║     is not beautiful, I know it is wrong. "                  ║
+║                                                              ║
+║                            — R. Buckminster Fuller           ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+<br>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=Syynnc&color=b8860b&style=flat&label=Profile+Views)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffd700,50:b8860b,100:0a0a0a&height=120&section=footer" width="100%" />
-
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffd700,50:b8860b,100:0a0a0a&height=120&section=footer" width="100%" />
