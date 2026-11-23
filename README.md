@@ -1,13 +1,4 @@
-```
-   _____
-  / ___/__  ____  ______  ____  _____
-  \__ \/ / / / / / / __ \/ __ \/ ___/
- ___/ / /_/ / /_/ / / / / / / / /__
-/____/\__, /\__, /_/ /_/_/ /_/\___/
-     /____//____/
-
- student dev  ·  building things, then trying to break them
-```
+<img src="./header.svg" alt="ASCII Navi ghost next to a terminal listing my interests" width="100%" />
 
 Student developer. I build web and mobile apps, and lately I've been spending a lot of my time on cybersecurity: how things get broken, and how to build them so they don't.
 
@@ -15,17 +6,7 @@ Most of what's here started as a school project or a "what if I tried this" idea
 
 ### What I'm into right now
 
-```
-    .---.        $ whoami
-   /     \       syynnc
-   |     |
- .-'-----'-.     $ cat interests/security.txt
- |   .-.   |     web app security, authentication, encryption,
- |   '-'   |     and poking at my own projects to find the
- |    |    |     holes before someone else does
- '---------'
-```
-
+- **Cybersecurity**: web app security, authentication, encryption, and poking at my own projects to find the holes before someone else does
 - **Full-stack web**: mostly TypeScript, React and Next.js, with Supabase or Postgres behind it
 - **Mobile**: Kotlin for Android, Expo when I need it cross-platform
 - **Tinkering**: Arduino, small games in Unity, and desktop tools like [Navi](https://github.com/Syynnc/Navi)
@@ -60,11 +41,3 @@ Always happy to talk about security, collab on something, or look at a bug toget
 
 > "When I am working on a problem, I never think about beauty, but when I have finished, if the solution is not beautiful, I know it is wrong."
 > — R. Buckminster Fuller
-
-```
-   .-.
-  (o o)   thanks for stopping by
-  | O \
-   \   \
-    `~~~'
-```
